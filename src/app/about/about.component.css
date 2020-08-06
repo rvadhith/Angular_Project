@@ -1,0 +1,23 @@
+#about {
+    background: orangered;
+}
+
+p {
+    text-align: justify;
+    margin-left: 100px;
+    font-size: 16px;
+    line-height: 24px;
+    width: 50%;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+#about-content {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: 50px;
+}
